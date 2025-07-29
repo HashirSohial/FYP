@@ -33,7 +33,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             >
               <Shield className="h-8 w-8" />
               <span className="text-xl font-bold bg-gradient-to-r from-teal-400 to-emerald-400 bg-clip-text text-transparent">
-                SecureChain
+                GenuScan
               </span>
             </button>
           </div>

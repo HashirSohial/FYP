@@ -55,7 +55,8 @@ export const Homepage: React.FC = () => {
                 </span>
               </h1>
               <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto text-teal-100">
-                Secure product authentication using immutable blockchain records and AI-powered fraud detection
+                "Empowering consumers and businesses to eliminate counterfiets with smart,secure blockchain verification,
+                one can scan to protect trust and ensure authenticity."
               </p>
           
             </div>
