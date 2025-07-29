@@ -106,7 +106,7 @@ export const Homepage: React.FC = () => {
               Our Blockchain Solution
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              Combining blockchain immutability with AI-powered detection to create 
+              Combining blockchain detection by scanning QR code to create 
               an unbreakable chain of product authenticity.
             </p>
           </div>
